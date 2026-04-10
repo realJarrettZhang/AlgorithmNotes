@@ -1,4 +1,4 @@
-<center><b><font size=6>Basic Graph Theory</font></b></center>
+<center><b><font size=6>Graph Fundamentals</font></b></center>
 
 
 
